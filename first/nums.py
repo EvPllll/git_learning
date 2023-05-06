@@ -3,4 +3,4 @@ def multiply(a: float, b: float) -> float:
 
 
 if __name__ == '__main__':
-    print(f'Multyply = {multiply(5, 4)}')
+    print(f'Multiply = {multiply(5, 4)}')
